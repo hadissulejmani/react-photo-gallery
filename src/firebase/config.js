@@ -3,13 +3,14 @@ import 'firebase/storage';
 import 'firebase/firestore';
 
 // Your web app's Firebase configuration
+//Fill all the below fields with corresponding values
 var firebaseConfig = {
-    apiKey: "AIzaSyBRgeLKP3aByGg0h_3pUqkFWQsItq74eDU",
-    authDomain: "react-firegram-860ea.firebaseapp.com",
-    projectId: "react-firegram-860ea",
-    storageBucket: "react-firegram-860ea.appspot.com",
-    messagingSenderId: "451286953064",
-    appId: "1:451286953064:web:3050be3d1eea2a2dca9fdd"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
